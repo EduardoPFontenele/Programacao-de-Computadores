@@ -1,4 +1,4 @@
-# Programação I — UFMT
+# Programação de Computadores — UFMT
 
 Repositório com exercícios resolvidos da disciplina de **Programação I** do curso de Ciência da Computação da **Universidade Federal de Mato Grosso (UFMT)** — Campus do Araguaia, Barra do Garças/MT.
 
